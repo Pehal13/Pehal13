@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pehal!
-- 🌱 Developer- wide range of languages but❤️Javascript
+- 🌱 Developer- wide range of languages
 - 🔭 I’m currently working on CTF's, data structures and algorithms
 - 💞️ I’m looking forward to collaborate on future projects
 - 👨‍💻 Most of my projects are available here.
